@@ -1,5 +1,3 @@
-<h1 align="center">Projeto sendo construído 🚧</h1>
-
 <h1 style="text-align: "center"; style="font-weight: bold;">Bankist App</h1>
 
 <h1>Introdução</h1>
